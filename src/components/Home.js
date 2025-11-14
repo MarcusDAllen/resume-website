@@ -6,7 +6,7 @@ function Home() {
     <div className="home">
       {/* Section 1: Hero Section */}
       <section className="hero">
-        <h1>Hi, I'M Marcus Allen</h1>
+        <h1>Hi, I'm Marcus Allen</h1>
         <h2>
           A Passionate Computer Science Student and Competitive Pool Player
         </h2>
